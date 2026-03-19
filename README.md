@@ -41,7 +41,7 @@ tailwind-vite-react/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tailwind-vite-react.git
+git clone https://github.com/Shelendra-Chaudhary/tailwind-vite-react.git
 cd tailwind-vite-react
 ```
 
