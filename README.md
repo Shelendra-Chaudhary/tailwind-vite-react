@@ -1,12 +1,107 @@
-# React + Vite
+# Tailwind Vite React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple frontend practice project built using **Tailwind CSS**, **Vite**, and **React**.
+This project demonstrates basic UI design with **Login** and **Register** pages along with client-side routing.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* ⚡ Fast development with Vite
+* 🎨 Styled using Tailwind CSS
+* ⚛️ Built with React
+* 🔀 Routing using React Router
+* 🔐 Simple Login & Register UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Project Structure
+
+```
+tailwind-vite-react/
+│
+├── src/
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Login.jsx
+│   │   └── Register.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── public/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/tailwind-vite-react.git
+cd tailwind-vite-react
+```
+
+---
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 3️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+### 4️⃣ Open in browser
+
+```
+http://localhost:5173/
+```
+
+---
+
+## 📦 Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 👀 Preview
+
+* Home page with navigation links
+* Login page UI
+* Register page UI
+
+---
+
+## 📚 Technologies Used
+
+* React
+* Vite
+* Tailwind CSS
+* React Router
+
+---
+
+## 💡 Purpose
+
+This project is created for **learning and practicing UI development** using modern frontend tools.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
